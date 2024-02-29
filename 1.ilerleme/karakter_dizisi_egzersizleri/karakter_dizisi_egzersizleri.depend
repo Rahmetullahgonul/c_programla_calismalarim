@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660699159 source:c:\users\rahmet\desktop\c programlama\karakter_dizisi_egzersizleri\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

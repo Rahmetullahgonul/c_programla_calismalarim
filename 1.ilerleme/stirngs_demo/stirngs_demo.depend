@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660264005 source:c:\users\rahmet\desktop\c programlama\stirngs_demo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1659916844 source:c:\users\rahmet\desktop\c programlama\math.h_kütüphanesi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

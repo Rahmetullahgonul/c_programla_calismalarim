@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1685158408 source:c:\users\rahmet\desktop\c programlama\direnc_hesap\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

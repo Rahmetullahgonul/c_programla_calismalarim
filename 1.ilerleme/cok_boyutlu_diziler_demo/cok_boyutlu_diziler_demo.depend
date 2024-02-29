@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659925198 source:c:\users\rahmet\desktop\c programlama\cok_boyutlu_diziler_demo\main.c
+	<stdio.h>
+	<stdlib.h>
+
